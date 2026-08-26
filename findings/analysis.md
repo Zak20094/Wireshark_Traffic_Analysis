@@ -56,7 +56,7 @@ At this point, however, the contents and purpose of the traffic were unknown. I 
 
 ### Evidence
 
-![Interesting connection](screenshots/2026-08-25_22-11.png)
+![Interesting connection](../screenshots/2026-08-25_22-11.png)
 
 ## 3. DNS Analysis
 
@@ -89,13 +89,13 @@ The DNS analysis did not introduce any additional evidence strong enough to chan
 
 ### Evidence
 
-![DNS](screenshots/2026-08-26_00-50.png)
+![DNS](../screenshots/2026-08-26_00-50.png)
 
-![DNS](screenshots/2026-08-26_00-50_1.png)
+![DNS](../screenshots/2026-08-26_00-50_1.png)
 
-![DNS](screenshots/2026-08-26_00-50_2.png)
+![DNS](../screenshots/2026-08-26_00-50_2.png)
 
-![DNS](screenshots/2026-08-26_00-53.png)
+![DNS](../screenshots/2026-08-26_00-53.png)
 
 ## 4. HTTP Analysis
 
@@ -125,9 +125,9 @@ I therefore used the graphical Wireshark application to investigate the relevant
 
 ### Evidence
 
-![HTTP traffic](screenshots/2026-08-26_01-05.png)
+![HTTP traffic](../screenshots/2026-08-26_01-05.png)
 
-![HTTP traffic](screenshots/2026-08-26_01-20.png)
+![HTTP traffic](../screenshots/2026-08-26_01-20.png)
 
 ## 5. TLS Analysis
 
