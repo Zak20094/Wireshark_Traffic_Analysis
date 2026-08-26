@@ -18,7 +18,7 @@ At this stage, this does not by itself prove that the host was compromised, but 
 
 ### Evidence
 
-screenshots/2026-08-25_14-21.png
+../screenshots/2026-08-25_14-21.png
 
 ## 2. Who Does the Host Talk To?
 
