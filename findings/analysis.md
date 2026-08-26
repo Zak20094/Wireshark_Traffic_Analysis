@@ -181,7 +181,7 @@ This was significant because it provided evidence of information being collected
 
 ### Evidence
 
-![WIRESHARK traffic](screenshots/2026-08-26_01-43.png)
+![WIRESHARK traffic](../screenshots/2026-08-26_01-43.png)
 
 ## 7. Conclusion
 
